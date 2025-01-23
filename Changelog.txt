@@ -1,0 +1,4 @@
+V0.02
+
+Added background music with toggle in settings.
+Added "How To Play" to main menu
